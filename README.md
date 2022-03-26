@@ -20,7 +20,7 @@ After the learning process, a new data will be tested with our model to determin
 
 ![image](https://user-images.githubusercontent.com/72870423/160239678-582516ef-e0a3-4d6c-a6b1-fd73ce36bb34.png)
 ![image](https://user-images.githubusercontent.com/72870423/160239703-c9d15f56-b5d6-4f30-a50f-227ea3d87167.png)
-![image](https://user-images.githubusercontent.com/72870423/160239800-dac13411-c18b-4e5e-9b63-ec7f50e66df7.png)
+![image](https://user-images.githubusercontent.com/72870423/160239826-6fc7e7cc-a092-4131-b132-d6a9b9ddb32d.png)
 
 
 
